@@ -42,4 +42,4 @@ Improving Sonic with conversational AI, web search, automation, and smarter voic
 
 ## 🔗 Connect With Me
 
-[LinkedIn](YOUR-LINK-HERE)
+[LinkedIn](www.linkedin.com/in/ayush-sharma-703626276)

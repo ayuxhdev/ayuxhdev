@@ -1,45 +1,52 @@
-# Hi, I'm Ayush 👋
+# Hey, I'm Ayush 👋
 
-### GenAI Specialist | Python | Data Analysis | AI Applications
+### Executive - AI | Generative AI • Python • Data Analysis
 
-I build practical projects using Python, AI APIs, automation, and data analysis.
+I'm someone who loves using AI and data to solve real problems.
+Currently working as Executive - AI, building AI-assisted workflows
+and turning raw data into useful outputs.
+
+---
 
 ## 🚀 Projects
 
 ### 🎙️ Sonic - Voice-Controlled Virtual Assistant
+A Python-based voice assistant powered by Gemini API that actually
+understands and responds like a conversation.
 
-AI-powered voice assistant built with Python and Gemini.
-
-- Speech recognition
-- Gemini API
-- Conversation memory
-- Continuous voice interaction
-- NewsAPI integration
-- Dynamic YouTube search
-- Modular architecture
+- Speech recognition & continuous voice interaction
+- Gemini API for intelligent responses
+- NewsAPI integration & dynamic YouTube search
+- Conversation memory & modular architecture
 
 [View Project](https://github.com/ayuxhdev/Voice-Controlled-Virtual-Assistant)
 
+---
+
 ### 📊 Netflix Data Analysis
+Analyzed 9,827 Netflix movies to find trends in genres, ratings,
+and popularity using Python and data visualization.
 
-Exploratory data analysis project using Python, Pandas, and data visualization.
-
-- Data cleaning
-- Exploratory data analysis
-- Data transformation
-- Visualization
-- Data-driven insights
+- Data cleaning & transformation
+- Exploratory Data Analysis (EDA)
+- Business insights through visualization
+- Built with Pandas, Matplotlib & Seaborn
 
 [View Project](https://github.com/ayuxhdev/Netflix_Data_Analysis)
 
+---
+
 ## 🛠️ Skills
+Python · SQL · Pandas · Prompt Engineering · Generative AI ·
+LLMs · Gemini API · Data Analysis · Data Visualization · Git
 
-Python · SQL · Pandas · GenAI · Gemini API · APIs · Git · Data Analysis · Data Visualization
+---
 
-## 📌 Currently Building
+## 📌 Currently Working On
+Upgrading Sonic with smarter conversational AI, web search,
+and automation capabilities.
 
-Improving Sonic with conversational AI, web search, automation, and smarter voice interaction.
+---
 
-## 🔗 Connect With Me
-
-[LinkedIn](www.linkedin.com/in/ayush-sharma-703626276)
+## 🔗 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/ayush-sharma-703626276)

@@ -1,52 +1,82 @@
 # Hey, I'm Ayush 👋
 
-### Executive - AI | Generative AI • Python • Data Analysis
+### AI / Generative AI • Python • Data Analysis
 
-I'm someone who loves using AI and data to solve real problems.
-Currently working as Executive - AI, building AI-assisted workflows
-and turning raw data into useful outputs.
+I work on practical AI-assisted workflows and data-driven applications using Python, LLMs, and modern AI tools.
+
+I'm currently working as an **Executive - AI**, with a focus on **Generative AI, Python, prompting, automation, and data analysis**.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🎙️ Sonic - Voice-Controlled Virtual Assistant
-A Python-based voice assistant powered by Gemini API that actually
-understands and responds like a conversation.
 
-- Speech recognition & continuous voice interaction
-- Gemini API for intelligent responses
-- NewsAPI integration & dynamic YouTube search
-- Conversation memory & modular architecture
+A Python-based voice assistant powered by the **Gemini API**, designed to handle voice commands and perform real actions.
 
-[View Project](https://github.com/ayuxhdev/Voice-Controlled-Virtual-Assistant)
+**Highlights:**
+
+* Wake-word activation and continuous voice interaction
+* Gemini-powered responses
+* YouTube music search and playback
+* `yt-dlp` for audio extraction and downloading
+* VLC-based audio playback
+* Automatic cleanup of downloaded audio
+* NewsAPI integration
+* Modular command and service architecture
+
+**Tech:** Python • Gemini API • SpeechRecognition • yt-dlp • VLC • NewsAPI
 
 ---
 
 ### 📊 Netflix Data Analysis
-Analyzed 9,827 Netflix movies to find trends in genres, ratings,
-and popularity using Python and data visualization.
 
-- Data cleaning & transformation
-- Exploratory Data Analysis (EDA)
-- Business insights through visualization
-- Built with Pandas, Matplotlib & Seaborn
+An exploratory data analysis project focused on discovering patterns and trends in a movie dataset using Python and data visualization.
 
-[View Project](https://github.com/ayuxhdev/Netflix_Data_Analysis)
+**Highlights:**
+
+* Data cleaning and transformation
+* Exploratory Data Analysis (EDA)
+* Analysis of genres, ratings, popularity, and release trends
+* Pandas-based data processing
+* Matplotlib and Seaborn visualizations
+* Currently being expanded with **SQL and Power BI**
+
+**Tech:** Python • Pandas • SQL • Matplotlib • Seaborn • Power BI
 
 ---
 
 ## 🛠️ Skills
-Python · SQL · Pandas · Prompt Engineering · Generative AI ·
-LLMs · Gemini API · Data Analysis · Data Visualization · Git
+
+**Languages & Data**
+Python • SQL • Pandas • Data Analysis • Data Visualization
+
+**AI & GenAI**
+Generative AI • LLMs • Gemini API • Prompt Engineering
+
+**Tools & Development**
+Git • GitHub • APIs • Automation
 
 ---
 
 ## 📌 Currently Working On
-Upgrading Sonic with smarter conversational AI, web search,
-and automation capabilities.
+
+* Expanding the **Netflix Data Analysis** project into a complete analytics case study with SQL and Power BI.
+* Building the next stage of **Sonic** with more advanced AI-driven command handling and automation.
+* Learning and building more practical **GenAI and AI/ML applications**.
+
+---
+
+## 🎯 What I'm Interested In
+
+I'm interested in building practical applications at the intersection of:
+
+**AI + Data + Automation**
+
+and learning how to turn AI models into useful, real-world solutions.
 
 ---
 
 ## 🔗 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/ayush-sharma-703626276)
+
+[LinkedIn](https://www.linkedin.com/in/ayush-sharma-703626276/)

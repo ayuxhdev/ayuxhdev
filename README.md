@@ -40,9 +40,9 @@ An exploratory data analysis project focused on discovering patterns and trends 
 * Analysis of genres, ratings, popularity, and release trends
 * Pandas-based data processing
 * Matplotlib and Seaborn visualizations
-* Currently being expanded with **SQL and Power BI**
+* Currently being expanded with **SQL**
 
-**Tech:** Python • Pandas • SQL • Matplotlib • Seaborn • Power BI
+**Tech:** Python • Pandas • SQL • Matplotlib • Seaborn
 
 ---
 
@@ -61,7 +61,7 @@ Git • GitHub • APIs • Automation
 
 ## 📌 Currently Working On
 
-* Expanding the **Netflix Data Analysis** project into a complete analytics case study with SQL and Power BI.
+* Expanding the **Netflix Data Analysis** project into a complete analytics case study with SQL.
 * Building the next stage of **Sonic** with more advanced AI-driven command handling and automation.
 * Learning and building more practical **GenAI and AI/ML applications**.
 

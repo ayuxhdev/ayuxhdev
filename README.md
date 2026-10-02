@@ -22,6 +22,14 @@
 - 📍 **Based in:** Delhi, India
 - 🎓 **Education:** MCA, Indira Gandhi National Open University (2023–2025)
 
+```text
+> whoami
+Data & Generative AI Analyst
+
+> core_stack
+Python | SQL | Pandas | Django | MySQL | Generative AI
+```
+
 ---
 
 ## 🚀 Featured Projects
@@ -36,11 +44,15 @@ Internal employee training, assessment & certification system for Garden's Need 
 
 ### 🎙️ Sonic - Voice-Controlled Virtual Assistant
 Modular Python voice assistant with wake-word activation and Gemini API integration.
+- Real-time news retrieval via NewsAPI & dynamic YouTube music search/playback
+- Continuous speech recognition & text-to-speech responses
 
 [View Project →](https://github.com/ayuxhdev/Voice-Controlled-Virtual-Assistant)
 
 ### 📊 Netflix Data Analysis
-EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
+End-to-end EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
+- Data cleaning, preprocessing & multi-genre transformation using `explode()`
+- Answered 11 business-oriented analytical questions
 
 [View Project →](https://github.com/ayuxhdev/Netflix_Data_Analysis)
 
@@ -59,6 +71,24 @@ EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 
 ---
 
+## ⚙️ How I Approach AI-Assisted Development
+
+```mermaid
+flowchart LR
+    A[Understand Problem] --> B[Define Requirements]
+    B --> C[Direct AI Implementation]
+    C --> D[Run Tests]
+    D --> E{Correct?}
+    E -->|No| F[Debug & Refine]
+    F --> C
+    E -->|Yes| G[Validate Behaviour]
+    G --> H[Commit & Iterate]
+```
+
+My focus isn't *"AI wrote the code."* It's: can I define the right system, guide the implementation, detect problems, validate the result, and improve it?
+
+---
+
 ## 🔗 Connect
 
 <div align="center">
@@ -67,4 +97,4 @@ EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 
 </div>
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=100&section=footer)S
+![wave](https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=100&section=footer)

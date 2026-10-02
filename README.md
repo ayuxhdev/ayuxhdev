@@ -1,82 +1,64 @@
 # Hey, I'm Ayush 👋
 
-### AI / Generative AI • Python • Data Analysis
+### Executive - AI | Generative AI • Python • Data Analysis
 
-I work on practical AI-assisted workflows and data-driven applications using Python, LLMs, and modern AI tools.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Data+Analysis;AI-Assisted+Development;Directing+AI+%2B+Validating+Through+Testing)](https://git.io/typing-svg)
 
-I'm currently working as an **Executive - AI**, with a focus on **Generative AI, Python, prompting, automation, and data analysis**.
+[![Profile Views](https://komarev.com/ghpvc/?username=ayuxhdev&style=flat&color=2E86C1&label=profile+views)](https://github.com/ayuxhdev)
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 About Me
+
+- 🔭 **Currently Working On:** Internal training management system (Django) for Garden's Need, Sonic voice assistant upgrades
+- 🌱 **Learning:** Deeper backend development, ML fundamentals
+- 💬 **Ask Me About:** Prompt engineering, AI-assisted development, data analysis with Python
+- 📍 **Location:** Delhi, India
+- 🎓 **Education:** MCA, IGNOU
+
+---
+
+## 🚀 Projects
+
+### 🏢 Training Module Application
+Internal employee training, assessment & certification system for Garden's Need — Django, MySQL, AI-assisted development.
+- Role-based access control, training lifecycle, assessments, audit logging
+- 250+ automated tests passing
+- Directed AI-assisted development, validated through rigorous testing
+
+[View Project](https://github.com/ayuxhdev/Training-Module-Application)
 
 ### 🎙️ Sonic - Voice-Controlled Virtual Assistant
+Modular Python voice assistant with wake-word activation and Gemini API integration.
 
-A Python-based voice assistant powered by the **Gemini API**, designed to handle voice commands and perform real actions.
-
-**Highlights:**
-
-* Wake-word activation and continuous voice interaction
-* Gemini-powered responses
-* YouTube music search and playback
-* `yt-dlp` for audio extraction and downloading
-* VLC-based audio playback
-* Automatic cleanup of downloaded audio
-* NewsAPI integration
-* Modular command and service architecture
-
-**Tech:** Python • Gemini API • SpeechRecognition • yt-dlp • VLC • NewsAPI
-
----
+[View Project](https://github.com/ayuxhdev/Voice-Controlled-Virtual-Assistant)
 
 ### 📊 Netflix Data Analysis
+EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 
-An exploratory data analysis project focused on discovering patterns and trends in a movie dataset using Python and data visualization.
-
-**Highlights:**
-
-* Data cleaning and transformation
-* Exploratory Data Analysis (EDA)
-* Analysis of genres, ratings, popularity, and release trends
-* Pandas-based data processing
-* Matplotlib and Seaborn visualizations
-* Currently being expanded with **SQL**
-
-**Tech:** Python • Pandas • SQL • Matplotlib • Seaborn
+[View Project](https://github.com/ayuxhdev/Netflix_Data_Analysis)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-**Languages & Data**
-Python • SQL • Pandas • Data Analysis • Data Visualization
-
-**AI & GenAI**
-Generative AI • LLMs • Gemini API • Prompt Engineering
-
-**Tools & Development**
-Git • GitHub • APIs • Automation
+**Languages:** Python · SQL  
+**AI/ML:** scikit-learn · Pandas · NumPy · Matplotlib · Seaborn  
+**AI Tools:** ChatGPT · Gemini · Claude · Prompt Engineering · LLMs  
+**Backend:** Django · MySQL  
+**Tools:** Git · GitHub · VS Code · Jupyter Notebook
 
 ---
 
-## 📌 Currently Working On
+## 📊 GitHub Stats
 
-* Expanding the **Netflix Data Analysis** project into a complete analytics case study with SQL.
-* Building the next stage of **Sonic** with more advanced AI-driven command handling and automation.
-* Learning and building more practical **GenAI and AI/ML applications**.
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuxhdev&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuxhdev&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🎯 What I'm Interested In
-
-I'm interested in building practical applications at the intersection of:
-
-**AI + Data + Automation**
-
-and learning how to turn AI models into useful, real-world solutions.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayuxhdev&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔗 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/ayush-sharma-703626276/)
+## 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/ayush-sharma-703626276)

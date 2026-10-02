@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 💼 **Current Role:** Executive - AI, Garden's Need Pvt. Ltd.
-- 🔭 **Currently Working On:** Internal Django training management system for Garden's Need, Netflix Data Analysis project, Sonic voice assistant upgrades
+- 🔭 **Currently Working On:** Internal Django training management system for Garden's Need, Movie Data Analysis project, Sonic voice assistant upgrades
 - 🌱 **Learning:** Deeper backend development, ML fundamentals
 - 💬 **Ask Me About:** Prompt engineering, AI-assisted development, data analysis with Python
 - 📍 **Based in:** Delhi, India
@@ -49,7 +49,7 @@ Modular Python voice assistant with wake-word activation and Gemini API integrat
 
 [View Project →](https://github.com/ayuxhdev/Voice-Controlled-Virtual-Assistant)
 
-### 📊 Netflix Data Analysis
+### 📊 Movie Data Analysis
 End-to-end EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 - Data cleaning, preprocessing & multi-genre transformation using `explode()`
 - Answered 11 business-oriented analytical questions

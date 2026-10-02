@@ -1,80 +1,52 @@
 <div align="center">
 
-# ⚡ Ayush Sharma
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=180&section=header&text=AYUSH%20SHARMA&fontSize=42&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Data%20%26%20Generative%20AI%20Analyst&descAlignY=58&descSize=18" />
 
-### Executive - AI @ Garden's Need | Generative AI • Python • Data Analysis
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Python+%E2%80%A2+SQL+%E2%80%A2+Generative+AI+%E2%80%A2+Data+Analytics;Building+AI-Assisted+Applications;Prompt+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Validate+%E2%86%92+Iterate;Turning+Data+%26+AI+Into+Working+Systems" alt="Typing SVG" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Data+Analysis;AI-Assisted+Development;Directing+AI+%2B+Validating+Through+Testing;Building+Real-World+AI+Workflows)](https://git.io/typing-svg)
+<br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ayuxhdev&style=flat&color=2E86C1&label=profile+views)](https://github.com/ayuxhdev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-703626276)
+<img src="https://komarev.com/ghpvc/?username=ayuxhdev&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
 
-</div>
+<a href="https://www.linkedin.com/in/ayush-sharma-703626276">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header)
-
-## 👨‍💻 About Me
-
-- 🔭 **Currently Working On:** Internal Django training management system for Garden's Need, Sonic voice assistant upgrades
-- 🌱 **Learning:** Deeper backend development, ML fundamentals
-- 💬 **Ask Me About:** Prompt engineering, AI-assisted development, data analysis with Python
-- 📍 **Based in:** Delhi, India
-- 🎓 **Education:** MCA, IGNOU
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 Training Module Application
-Internal employee training, assessment & certification system for Garden's Need — Django, MySQL, AI-assisted development.
-- Role-based access control, training lifecycle, assessments, audit logging
-- 250+ automated tests passing
-- Directed AI-assisted development, validated through rigorous testing
-
-[View Project →](https://github.com/ayuxhdev/Training-Module-Application)
-
-### 🎙️ Sonic - Voice-Controlled Virtual Assistant
-Modular Python voice assistant with wake-word activation and Gemini API integration.
-
-[View Project →](https://github.com/ayuxhdev/Voice-Controlled-Virtual-Assistant)
-
-### 📊 Netflix Data Analysis
-EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
-
-[View Project →](https://github.com/ayuxhdev/Netflix_Data_Analysis)
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=python,mysql,django,git,github,vscode)
-
-</div>
-
-**AI Tools:** ChatGPT · Gemini · Claude · Prompt Engineering · LLMs  
-**Data & ML:** Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayuxhdev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuxhdev&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/ayuxhdev?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🔗 Connect
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> About Me
 
-<div align="center">
+I'm a **Data & Generative AI Analyst** working at the intersection of **data, AI, automation, and AI-assisted application development**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-703626276)
+Currently working as **Executive - AI at Garden's Need Pvt. Ltd.**, where I use Generative AI and structured workflows to solve practical business problems.
 
-</div>
+My work spans:
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=100&section=footer)
+- 📊 **Data Analysis** using Python, SQL, Pandas, NumPy and visualization tools
+- 🧠 **Generative AI** using LLMs, prompt engineering and AI-assisted workflows
+- ⚙️ **AI-Assisted Development** using VS Code and coding agents to turn requirements into working applications
+- 🧪 **Testing & Validation** to verify AI-generated implementations instead of treating generated code as finished code
+- 🔄 **Automation** for repetitive data, content and operational workflows
+
+I focus on understanding the problem first, defining what the system should do, guiding implementation, testing the result, finding failures, and iterating until it works correctly.
+
+```text
+> whoami
+Data & Generative AI Analyst
+
+> core_stack
+Python | SQL | Pandas | Django | MySQL | Generative AI
+
+> current_focus
+Data Analytics + AI Automation + AI-Assisted Application Development
+
+> development_loop
+Requirements -> AI-Assisted Build -> Test -> Validate -> Improve

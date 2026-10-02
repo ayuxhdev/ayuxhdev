@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 💼 **Current Role:** Executive - AI, Garden's Need Pvt. Ltd.
-- 🔭 **Currently Working On:** Internal Django training management system for Garden's Need, Sonic voice assistant upgrades
+- 🔭 **Currently Working On:** Internal Django training management system for Garden's Need, Netflix Data Analysis project, Sonic voice assistant upgrades
 - 🌱 **Learning:** Deeper backend development, ML fundamentals
 - 💬 **Ask Me About:** Prompt engineering, AI-assisted development, data analysis with Python
 - 📍 **Based in:** Delhi, India

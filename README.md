@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Data+Analysis;AI-Assisted+Development;Directing+AI+%2B+Validating+Through+Testing;Building+Real-World+AI+Workflows)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayuxhdev&style=flat&color=2E86C1&label=profile+views)](https://github.com/ayuxhdev)
-[![GitHub followers](https://img.shields.io/github/followers/ayuxhdev?style=flat&color=2E86C1&label=followers)](https://github.com/ayuxhdev?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-703626276)
 
 </div>
 
@@ -47,7 +47,11 @@ EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ![Python](https://skillicons.dev/icons?i=python,mysql,django,git,github,vscode)
+
+</div>
 
 **AI Tools:** ChatGPT · Gemini · Claude · Prompt Engineering · LLMs  
 **Data & ML:** Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
@@ -62,22 +66,6 @@ EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuxhdev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ayuxhdev&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/ayuxhdev/ayuxhdev/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

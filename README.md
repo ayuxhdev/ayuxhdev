@@ -7,6 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Generative+AI+%7C+Data+Analysis;AI-Assisted+Development;Directing+AI+%2B+Validating+Through+Testing;Building+Real-World+AI+Workflows)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayuxhdev&style=flat&color=2E86C1&label=profile+views)](https://github.com/ayuxhdev)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-703626276)
 
 </div>
@@ -68,7 +69,12 @@ End-to-end EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python,mysql,django,git,github,vscode)
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
 
 </div>
 

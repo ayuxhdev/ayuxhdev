@@ -13,6 +13,10 @@
 
 ![wave](https://capsule-render.vercel.app/api?type=waving&color=2E86C1&height=120&section=header)
 
+<p align="center">
+  <img src="./assets/ayush-terminal-banner.gif" alt="Ayush Sharma terminal profile banner" width="100%">
+</p>
+
 ## 👨‍💻 About Me
 
 - 💼 **Current Role:** Executive - AI, Garden's Need Pvt. Ltd.
@@ -61,8 +65,8 @@ End-to-end EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-![Python](https://skillicons.dev/icons?i=python,mysql,django,git,github,vscode)
+    
+<img src="./assets/ayush-tech-stack.gif" alt="Animated Tech Stack">
 
 </div>
 

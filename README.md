@@ -69,10 +69,14 @@ End-to-end EDA on 9,827 Netflix movies — Python, Pandas, Matplotlib, Seaborn.
 
 <div align="center">
 
-<img src="https://icon-marquee.giann.dev/v1/marquee?i=python,mysql,django,github,git,vscode&amp;width=600" alt="Animated Python, MySQL, Django, GitHub, Git and VS Code icons" width="600" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="55" height="55" />
 
 </div>
-
 **AI Tools:** ChatGPT · Gemini · Claude · Prompt Engineering · LLMs  
 **Data & ML:** Pandas · NumPy · Matplotlib · Seaborn · scikit-learn
 
